@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="bg-green-200 p-5 flex items-center justify-between shadow-2xl sticky top-0 z-10">
+        <h1 class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 to-blue-500 from-pink-500 to-orange-500 text-4xl flex gap-2 items-center font-semibold"><img src="./images/logo.png" width="50px" height="50px"> Green Thumb Haven</h1>
+
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 md:hidden">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+          </svg>
+         
+        <ul class="flex gap-5 text-gray-500 text-2xl hidden md:flex">
+            <li>
+                <a class="hover:underline hover:text-black" href="/index.html">Home</a>
+            </li>
+            <li>
+                <a class="hover:underline hover:text-black" href="/product.html">Products</a>
+            </li>
+            <li>
+                <a class="hover:underline hover:text-black" href="/contact.html">Contact</a>
+            </li>
+        </ul>
+    </nav>
+
+    <div class="bg-green-50 font-[sans-serif] lg:h-screen">
+        <ul class="flex p-5 font-semibold gap-5 text-black text-1xl md:hidden">
+            <li>
+                <a class="hover:underline hover:text-black" href="/index.html">Home</a>
+            </li>
+            <li>
+                <a class="hover:underline hover:text-black" href="/product.html">Products</a>
+            </li>
+            <li>
+                <a class="hover:underline hover:text-black" href="/contact.html">Contact</a>
+            </li>
+        </ul>
+
+        <div
+            class="grid lg:grid-cols-3 items-center max-lg:justify-center gap-6 h-full sm:p-12 p-8 max-sm:p-4">
+            <div class="max-w-lg max-lg:mx-auto max-lg:text-center max-lg:mb-6">
+                <h2 class="text-4xl font-extrabold text-gray-800">Get In Touch</h2>
+                <p class="text-sm text-gray-600 mt-4 leading-relaxed font-semibold">Have questions, comments, or anything related to plants and gardening? <br> We are here to help! Simply fill out the form below, and we'll get back to you as soon as possible. </p>
+
+                <form class="mx-auto mt-8 bg-white rounded-lg p-6 shadow-md space-y-4">
+                    <input type='text' placeholder='Name'
+                        class="w-full rounded-md h-12 px-6 bg-[#f0f1f2] text-sm outline-none" />
+                    <input type='email' placeholder='Email'
+                        class="w-full rounded-md h-12 px-6 bg-[#f0f1f2] text-sm outline-none" />
+                    <input type='text' placeholder='Subject'
+                        class="w-full rounded-md h-12 px-6 bg-[#f0f1f2] text-sm outline-none" />
+                    <textarea placeholder='Message' rows="6"
+                        class="w-full rounded-md px-6 bg-[#f0f1f2] text-sm pt-3 outline-none"></textarea>
+                    <button type='button'
+                        class="text-gray-800 bg-green-200 hover:bg-green-300 font-semibold rounded-md text-sm px-6 py-3 block w-full">Send
+                        Message</button>
+                </form>
+            </div>
+
+            <div class="relative lg:col-span-2">
+                <img src="./images/bg.jpg" class="hidden md:flex w-3/4 object-contain block mx-auto" />
+            </div>
+        </div>
+    </div>
+
+
+    <section class="bg-green-100 p-10 flex flex-col gap-5">
+        <h1 class="font-bold text-3xl md:text-5xl mb-5">Green Thumb Haven</h1>
+        <p class="font-semibold text-1xl text-green-700">GET IN TOUCH</p>
+        <p class="text-green-800">Email: greenthumbhaven@gmail.com</p>
+        <p class="text-green-800">Call: 9654123755</p>
+        <p>@ 2024, Green Thumb Haven. All rights reserved.</p>
+    </div>    
+    </section>
+
+
+
+</body>
+</html>
