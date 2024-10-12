@@ -5,7 +5,9 @@ This is a simple three-page plant shop website built using HTML and Tailwind CSS
 **Pages**
 
 **Home**: The landing page introducing the plant shop, with a welcoming message and featured products.
+
 **Product**: A dedicated page displaying various plants available for purchase, with images and descriptions.
+
 **Contact**: A page with contact details and a form for inquiries or feedback.
 
 **Technologies Used**
