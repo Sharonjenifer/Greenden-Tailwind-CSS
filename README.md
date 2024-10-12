@@ -13,11 +13,15 @@ This is a simple three-page plant shop website built using HTML and Tailwind CSS
 **Technologies Used**
 
 HTML
+
 Tailwind CSS
 
 **Features**
+
 Responsive design with Tailwind CSS.
+
 Clean and minimal UI.
+
 Organized layout for easy navigation.
 
 **How to Use**
