@@ -10,6 +10,9 @@ This is a simple three-page plant shop website built using HTML and Tailwind CSS
 
 **Contact**: A page with contact details and a form for inquiries or feedback.
 
+**How to View**:
+You can access my website by visiting [https://sharonjenifer.github.io/Greenden-Tailwind-CSS/]
+
 **Technologies Used**
 
 HTML
