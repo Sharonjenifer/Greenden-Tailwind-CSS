@@ -1,30 +1,33 @@
-# Plant Shop Website
 
-This is a simple three-page plant shop website built using HTML and Tailwind CSS. The website is designed to showcase a collection of plants and provide users with an easy way to explore products and contact the shop.
 
-**Pages**
+# 🪴 Botanic Basket – Plant Shop Web Page
 
-**Home**: The landing page introducing the plant shop, with a welcoming message and featured products.
+**Botanic Basket** is a clean and modern single-page plant shop website built using **HTML** and **Tailwind CSS**. It showcases a collection of indoor and outdoor plants with a stylish, responsive layout.
 
-**Product**: A dedicated page displaying various plants available for purchase, with images and descriptions.
+---
 
-**Contact**: A page with contact details and a form for inquiries or feedback.
+## 🔗 Live Demo
 
-**How to View**:
-You can access my website by visiting [https://sharonjenifer.github.io/Greenden-Tailwind-CSS/]
+[🌿 View Live Site](https://sharonjenifer.github.io/Greenden-Tailwind-CSS/)
 
-**Technologies Used**
+---
 
-HTML
+## 🧰 Tech Stack
 
-Tailwind CSS
+- 🔤 HTML5  
+- 🎨 Tailwind CSS  
+- 🌐 Fully responsive design  
 
-**Features**
+---
 
-Responsive design with Tailwind CSS.
+## ✨ Features
 
-Clean and minimal UI.
+- ✅ Beautiful hero section with CTA  
+- ✅ Featured plants grid  
+- ✅ Product cards with images and pricing  
+- ✅ About and contact section  
+- ✅ Mobile-first responsive design  
+- ✅ Tailwind utility classes for fast styling  
 
-Organized layout for easy navigation.
+---
 
-**How to Use**
