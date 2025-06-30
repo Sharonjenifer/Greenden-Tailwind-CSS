@@ -1,33 +1,30 @@
+# 🪴 Botanic Basket – Plant Shop Website
 
-
-# 🪴 Botanic Basket – Plant Shop Web Page
-
-**Botanic Basket** is a clean and modern single-page plant shop website built using **HTML** and **Tailwind CSS**. It showcases a collection of indoor and outdoor plants with a stylish, responsive layout.
+**Botanic Basket** is a modern and responsive plant e-commerce website built using **HTML**, **Tailwind CSS**, and **JavaScript**. It includes essential pages like Home, Products, and Contact, designed to offer a clean shopping experience for plant lovers.
 
 ---
 
 ## 🔗 Live Demo
 
-[🌿 View Live Site](https://sharonjenifer.github.io/Greenden-Tailwind-CSS/)
+[🌐 View Live Site](https://sharonjenifer.github.io/Greenden-Tailwind-CSS/)
+
+---
+
+## 🌟 Features
+
+- 🏠 Home page with banner and introduction  
+- 🛍️ Product page with plant listings  
+- 📞 Contact page with form  
+- 🌿 Responsive layout (mobile-friendly)  
+- 💡 Smooth scrolling and basic interactivity with JavaScript  
 
 ---
 
 ## 🧰 Tech Stack
 
-- 🔤 HTML5  
-- 🎨 Tailwind CSS  
-- 🌐 Fully responsive design  
+- **HTML5**  
+- **Tailwind CSS** for modern utility-first styling  
+- **JavaScript** for basic interactivity  
 
----
 
-## ✨ Features
-
-- ✅ Beautiful hero section with CTA  
-- ✅ Featured plants grid  
-- ✅ Product cards with images and pricing  
-- ✅ About and contact section  
-- ✅ Mobile-first responsive design  
-- ✅ Tailwind utility classes for fast styling  
-
----
 
