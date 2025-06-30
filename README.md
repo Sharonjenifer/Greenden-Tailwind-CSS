@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-[🌐 View Live Site](https://sharonjenifer.github.io/Greenden-Tailwind-CSS/)
+[🌐 View Live Site](https://sharonjenifer.github.io/Botanic-Basket-Plant-Shop/)
 
 ---
 
